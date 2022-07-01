@@ -2,7 +2,7 @@
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="logo linkedin" />](https://www.linkedin.com/in/devklucas/)
 [<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="logo linkedin" />](https://api.whatsapp.com/send?phone=5531975996554&text=Ol%C3%A1%20Lucas%2C%20vi%20seu%20portf%C3%B3lio%20gostaria%20de%20me%20conectar.)
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](https://api.whatsapp.com/send?phone=5531975996554&text=Ol%C3%A1%20Lucas%2C%20vi%20seu%20portf%C3%B3lio%20gostaria%20de%20me%20conectar.)
+<a href="mailto:lucascardoso64@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </br>
 ## Sobre
 
